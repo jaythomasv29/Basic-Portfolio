@@ -113,8 +113,18 @@ textarea {
    width: 250px; /* for IE 6 */
    text-align: center;
     color: white;
-    
+}
+h4:hover{
+	color: grey;
+	cursor:pointer;	
+}
+a {
+	text-decoration: none;
+	color: #777;
+}
 
+a:hover{
+	color: white;
 }
 
 h4 { 
